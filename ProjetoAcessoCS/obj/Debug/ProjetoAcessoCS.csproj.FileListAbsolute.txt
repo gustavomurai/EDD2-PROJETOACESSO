@@ -1,0 +1,7 @@
+D:\Faculdade\c++\Projeto-Acesso\ProjetoAcessoCS\ProjetoAcessoCS\bin\Debug\ProjetoAcessoCS.exe.config
+D:\Faculdade\c++\Projeto-Acesso\ProjetoAcessoCS\ProjetoAcessoCS\bin\Debug\ProjetoAcessoCS.exe
+D:\Faculdade\c++\Projeto-Acesso\ProjetoAcessoCS\ProjetoAcessoCS\bin\Debug\ProjetoAcessoCS.pdb
+D:\Faculdade\c++\Projeto-Acesso\ProjetoAcessoCS\ProjetoAcessoCS\obj\Debug\ProjetoAcessoCS.csproj.AssemblyReference.cache
+D:\Faculdade\c++\Projeto-Acesso\ProjetoAcessoCS\ProjetoAcessoCS\obj\Debug\ProjetoAcessoCS.csproj.CoreCompileInputs.cache
+D:\Faculdade\c++\Projeto-Acesso\ProjetoAcessoCS\ProjetoAcessoCS\obj\Debug\ProjetoAcessoCS.exe
+D:\Faculdade\c++\Projeto-Acesso\ProjetoAcessoCS\ProjetoAcessoCS\obj\Debug\ProjetoAcessoCS.pdb
